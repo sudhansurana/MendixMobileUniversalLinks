@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tieniber.ddns.net.giggit",
+      "sha256_cert_fingerprints":
+      ["65:88:35:DC:C3:47:18:52:64:DE:CF:D7:E6:D6:A8:53:13:2F:86:46:68:FC:F6:1A:D7:B9:04:F0:94:94:19:24"]
+    }
+  }]
